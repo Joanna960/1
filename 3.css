@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+.a {
+    color: blue;
+}
+
+#b{
+    color: brown;
+}
+
+ol li:nth-child(odd) {
+    color: blue;
+}
